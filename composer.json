@@ -1,6 +1,7 @@
 {
     "name": "livepixel/mercado-livre",
     "description": "Mercado Livre API SDK for Laravel",
+    "version": "dev-master",
     "license": "MIT",
     "authors": [
         {
