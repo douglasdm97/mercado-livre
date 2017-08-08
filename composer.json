@@ -4,13 +4,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Rodrigo Maia",
-            "email": "rodurma@gmail.com"
+            "name": "Douglas Gabriel Cardoso",
+            "email": "douglasdm97@gmail.com"
         }
     ], 
     "autoload": {
         "psr-4": {
-            "Livepixel\\MercadoLivre\\": "src/"
+            "mtools\\MercadoLivre\\": "src/"
         }
     },
     "require": {}
