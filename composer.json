@@ -1,0 +1,18 @@
+{
+    "name": "douglasdm97/mercado-livre",
+    "description": "Mercado Livre API SDK for Laravel",
+    "version": "dev-master",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Douglas Gabriel Cardoso",
+            "email": "douglasdm97@gmail.com"
+        }
+    ], 
+    "autoload": {
+        "psr-4": {
+            "mtools\\MercadoLivre\\": "src/"
+        }
+    },
+    "require": {}
+}
